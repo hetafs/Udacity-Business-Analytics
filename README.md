@@ -21,24 +21,24 @@ This repository contains the four projects completed as part of the **Udacity Bu
 ### 1. **Project 1: Interpret a Data Visualization**
    - **Objective**: Explore an interactive data dashboard and uncover insights from it.
    - **Description**: In this project, I explored a data dashboard, wrote a report explaining each insight, and described how the insights were derived from the dashboard.
-   - **Link to Report**: [Project 1 Report](Udacity-Business-Analytics\Project-1\MalariaInAfrica-Data-intercept-report)
+   - **Link to Report**: [Project 1 Report](Project-1/MalariaInAfrica-Data-intercept-report.pdf)
 
 ### 2. **Project 2: Analyze NYSE Data**
    - **Objective**: Analyze data from over 500 companies on the New York Stock Exchange using Excel.
    - **Description**: This project involved analyzing financial data and forecasting key metrics for a chosen company from the NYSE dataset.
-   - **Link to Report**: [Project 2 Report](Udacity-Business-Analytics\Project-2\nyse-data-report)
+   - **Link to Report**: [Project 2 Report](Project-2/nyse-data-report.pdf)
 
 ### 3. **Project 3: Query Digital Music Store Database**
    - **Objective**: Query a digital music store database to gain insights about the business.
    - **Description**: I queried a digital music store database to analyze sales patterns, customer locations, and optimize business practices.
-   - **Link to Report**: [Project 3 Report](Udacity-Business-Analytics\Project-3\sql-project)
+   - **Link to Report**: [Project 3 Report](Project-3\sql-project.pdf)
 
   
 
 ### 4. **Project 4: Build Data Dashboards**
    - **Objective**: Create interactive dashboards using Tableau and discover insights from data.
    - **Description**: This project involved building dashboards to visualize flight delays across US airports and airlines, identifying key insights and trends.
-   - **Link to Report**: [Project 4 Report](Udacity-Business-Analytics\Project-4\delay-flights-tabluea)
+   - **Link to Report**: [Project 4 Report](Project-4\delay-flights-tabluea.pdf)
 
 
 
