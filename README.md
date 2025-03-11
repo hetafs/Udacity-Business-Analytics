@@ -40,5 +40,7 @@ This repository contains the four projects completed as part of the **Udacity Bu
    - **Description**: This project involved building dashboards to visualize flight delays across US airports and airlines, identifying key insights and trends.
    - **Link to Report**: [Project 4 Report](Project-4/delay-flights-tabluea.pdf)
 
+![Business Analytics Image](www.udacity.com/certificate/e/1f617914-d8ff-11ef-a788-13a5e22b0e32)
+
 
 
