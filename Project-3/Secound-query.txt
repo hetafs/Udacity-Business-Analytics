@@ -1,0 +1,8 @@
+/*Secound query*/
+SELECT Genre.Name AS GenreName, SUM(InvoiceLine.Quantity) AS TotalTracksSold
+FROM InvoiceLine
+JOIN Track ON InvoiceLine.TrackId = Track.TrackId
+JOIN Genre ON Track.GenreId = Genre.GenreId
+GROUP BY Genre.GenreId
+ORDER BY TotalTracksSold DESC
+limit 10;
