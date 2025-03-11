@@ -1,6 +1,6 @@
 # Udacity-Business-Analytics
-# Business Analytics Project for Udacity Nano Degree
-# Business Analytics Projects for Udacity Nanodegree
+
+## Business Analytics Projects for Udacity Nanodegree
 
 ## Overview:
 This repository contains the four projects completed as part of the **Udacity Business Analytics Nanodegree** (feb 2025). The objective of the Nanodegree was to develop data analysis and visualization skills using tools like **SQL**, **Excel**, and **Tableau**. These projects involve analyzing real-world datasets, interpreting data visualizations, and building interactive dashboards to help businesses make data-driven decisions.
