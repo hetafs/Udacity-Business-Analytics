@@ -31,14 +31,14 @@ This repository contains the four projects completed as part of the **Udacity Bu
 ### 3. **Project 3: Query Digital Music Store Database**
    - **Objective**: Query a digital music store database to gain insights about the business.
    - **Description**: I queried a digital music store database to analyze sales patterns, customer locations, and optimize business practices.
-   - **Link to Report**: [Project 3 Report](Project-3\sql-project.pdf)
+   - **Link to Report**: [Project 3 Report](Project-3/sql-project.pdf)
 
   
 
 ### 4. **Project 4: Build Data Dashboards**
    - **Objective**: Create interactive dashboards using Tableau and discover insights from data.
    - **Description**: This project involved building dashboards to visualize flight delays across US airports and airlines, identifying key insights and trends.
-   - **Link to Report**: [Project 4 Report](Project-4\delay-flights-tabluea.pdf)
+   - **Link to Report**: [Project 4 Report](Project-4/delay-flights-tabluea.pdf)
 
 
 
