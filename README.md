@@ -1,6 +1,5 @@
-# Udacity-Business-Analytics
 
-## Business Analytics Projects for Udacity Nanodegree
+# Business Analytics Projects for Udacity Nanodegree
 ![image](https://github.com/user-attachments/assets/73314fc3-9124-4332-8aba-316cfdacce56)
 
 
